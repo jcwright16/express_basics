@@ -1,0 +1,27 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "\"The express.js Hello World program\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcwright16/express_basics.git"
+  },
+  "keywords": [
+    "\"express\"",
+    "\"hello\"",
+    "\"world\""
+  ],
+  "author": "jason_wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcwright16/express_basics/issues"
+  },
+  "homepage": "https://github.com/jcwright16/express_basics#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
