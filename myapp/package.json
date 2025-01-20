@@ -10,12 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/jcwright16/express_basics.git"
   },
-  "keywords": [
-    "\"express\"",
-    "\"hello\"",
-    "\"world\""
+  "keywords": ["express", "hello", "world"
   ],
-  "author": "jason_wright",
+  "author": "Jason Wright",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jcwright16/express_basics/issues"
